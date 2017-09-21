@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Session1</string>
+    <string name="nombre">Nombre de usuario</string>
+    <string name="password1">Contraseña</string>
+    <string name="password2">Confirmar contraseña</string>
+    <string name="formulacio">Registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="info">Información digitada</string>
+    <string name="celular">Celular</string>
+    <string name="correo">Correo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="cine">Cine</string>
+    <string name="comer">Comer</string>
+    <string name="deporte">Deporte</string>
+    <string name="dormir">Dormir</string>
+    <string name="cuidad">Lugar de Nacimiento</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="contraseña2">Confirmar contraseña</string>
+    <string name="avHobbie">Seleccionar Hobbie</string>
+    <string name="avNacimiento">Fecha de nacimiento</string>
+
+    <string-array name="cuidad_array">
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Pereira</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+    </string-array>
+</resources>
